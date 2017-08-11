@@ -26,9 +26,9 @@
         <test.project.exclude.groups></test.project.exclude.groups>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>1.2.1-rc.6</serenity.version>
-        <serenity.maven.version>1.2.1-rc.6</serenity.maven.version>
-        <serenity.plugin.version>1.2.1-rc.6</serenity.plugin.version>
+        <serenity.version>1.5.3</serenity.version>
+        <serenity.maven.version>1.5.3</serenity.maven.version>
+        <serenity.plugin.version>1.5.3</serenity.plugin.version>
         <webdriver.driver>firefox</webdriver.driver>
     </properties>
 
